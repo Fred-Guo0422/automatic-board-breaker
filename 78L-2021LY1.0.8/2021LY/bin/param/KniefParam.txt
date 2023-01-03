@@ -1,0 +1,9 @@
+[Cutter_parameters]
+Knife_Total_Km_ui=120000
+Knife_Cur_Km_ui=911529
+Knife_Downs_ui=3
+Knife_Downs_num=0.5
+Max_Knife_Downs=30
+
+[Run_Path]
+Path=C:\Users\Administrator\Desktop\0422.txt
